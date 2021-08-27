@@ -27,4 +27,6 @@ be</a>
 "https://github.com/shapeai">GitHub</a>
   
   every day code
+  
+  cose every d
 no code
